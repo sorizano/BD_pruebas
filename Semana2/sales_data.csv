@@ -1,0 +1,11 @@
+Region,Product,Date,Sales
+East,Product_A,2025-01-01,1200
+East,Product_B,2025-01-02,850
+West,Product_A,2025-01-01,1000
+West,Product_C,2025-01-03,700
+North,Product_B,2025-01-02,950
+North,Product_C,2025-01-03,1050
+South,Product_A,2025-01-01,1100
+South,Product_B,2025-01-02,1300
+East,Product_C,2025-01-03,600
+West,Product_B,2025-01-02,750
